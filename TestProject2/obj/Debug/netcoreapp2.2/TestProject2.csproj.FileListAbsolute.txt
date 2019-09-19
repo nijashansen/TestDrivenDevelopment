@@ -1,0 +1,17 @@
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\TestProject2.deps.json
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\TestProject2.runtimeconfig.json
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\TestProject2.runtimeconfig.dev.json
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\TestProject2.dll
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\TestProject2.pdb
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\TestDrivenDevelopment.exe
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\bin\Debug\netcoreapp2.2\TestDrivenDevelopment.pdb
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\obj\Debug\netcoreapp2.2\TestProject2.csprojAssemblyReference.cache
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\obj\Debug\netcoreapp2.2\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\obj\Debug\netcoreapp2.2\TestProject2.AssemblyInfoInputs.cache
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\obj\Debug\netcoreapp2.2\TestProject2.AssemblyInfo.cs
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\obj\Debug\netcoreapp2.2\TestProject2.csproj.CopyComplete
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\obj\Debug\netcoreapp2.2\TestProject2.dll
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestProject2\obj\Debug\netcoreapp2.2\TestProject2.pdb

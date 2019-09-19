@@ -1,0 +1,9 @@
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.exe
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.pdb
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csprojAssemblyReference.cache
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csproj.CopyComplete
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.exe
+C:\Users\Nijas Hansen\RiderProjects\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.pdb
